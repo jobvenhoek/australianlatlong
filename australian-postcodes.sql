@@ -5,8 +5,6 @@ May contain errors where latitude and longitude are off. Use at own non-validate
 */
 
 SET NAMES utf8;
-SET foreign_key_checks = 0;
-SET time_zone = 'SYSTEM';
 SET sql_mode = 'NO_AUTO_VALUE_ON_ZERO';
 
 DROP TABLE IF EXISTS postcodes_geo;
